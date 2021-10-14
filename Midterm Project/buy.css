@@ -1,0 +1,26 @@
+.wrong{
+  padding-top: 20%;
+}
+.end{
+    text-align: left;
+    color: rgb(0, 0, 0);
+    background-color: rgb(243, 236, 236);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin:0;
+    margin-left:-79px;
+    opacity: .3;
+}
+.header{
+    text-align: right;
+    padding: 0px;
+    display: inline-flex;
+    width: 100%;
+   background-color: #f8f9fa;
+}
+.header h1{
+    text-align: left;
+    margin-right: 800px; 
+    width: 100%;
+}

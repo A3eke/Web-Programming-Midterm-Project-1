@@ -1,0 +1,79 @@
+
+
+.container{
+    background-color: rgba(89, 167, 160, 0);
+    margin: 0;
+    padding: 0;
+}
+.header h1{
+    text-align: left;
+    margin-right: 800px; 
+    width: 100%;
+}
+.header{
+    text-align: right;
+    padding: 0px;
+    display: inline-flex;
+    width: 100%;
+    padding-left: -79px;
+   background-color: #f8f9fa;
+}
+.AirPodsHead{
+    
+
+}
+.photo{
+    
+ height: 60%;
+ 
+    
+
+}
+/* button h2{
+    font-size: 38px;
+    padding-left: 121px;
+    padding-right: 121px;
+} */
+p{
+    font-size:20px ;
+}
+.poverh{
+    position: absolute;
+
+    bottom: 0%;
+
+    text-transform: lowercase;
+
+    color: #c9c9c9;
+
+    width: 200px;
+}
+.pover{
+    position: absolute;
+
+    bottom: 0%;
+
+    text-transform: lowercase;
+
+    color: #c9c9c9;
+
+    width: 200px;
+}
+.AirPodsHead img{
+    width: 1260px;
+    padding: 0;
+    margin: 0;
+    margin-left: -80px;
+}
+.end{
+    text-align: left;
+    color: rgb(0, 0, 0);
+    background-color: rgb(243, 236, 236);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin:0;
+    margin-left:-129px;
+    opacity: .3;
+
+}
