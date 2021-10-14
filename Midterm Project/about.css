@@ -1,0 +1,30 @@
+.container{
+    background-color: rosybrown;
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: #f8f9fa;
+}
+
+.text h2 {
+    left: 0;
+    position: absolute;
+    top: 10px;
+    width: 100%;
+    left: 5px;
+    background: none repeat scroll 0 0 #222;
+    border-radius: 2px;
+    color: #fff;
+}
+.end{
+    text-align: left;
+    color: rgb(0, 0, 0);
+    background-color: rgb(243, 236, 236);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin:0;
+    margin-left:-79px;
+    opacity: .3;
+}
